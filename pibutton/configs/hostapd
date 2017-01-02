@@ -1,0 +1,3 @@
+# Defaults for hostapd initscript
+#
+DAEMON_CONF="/etc/hostapd/hostapd.conf"

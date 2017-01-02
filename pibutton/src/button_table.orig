@@ -1,0 +1,15 @@
+#button table
+#Add mac addresses below with the command type and value.
+
+# MAC_ADDR = Dash Button MAC Address
+#      CMD = curl|email
+#   VALUE1 = https URL or email address
+#   VALUE2 = header/message file number (if email cmd is used) (header_1.txt/message_1.txt).
+
+#examples (do not include hash)
+#ac:63:ba:f0:5d:3b	curl	https://maker.ifttt.com/trigger/pibutton/with/key/cYzjQqHlvc-O2CbFBjdtNb
+#ac:63:ba:f0:5d:3b      email   bob@example.com   1
+
+#MAC_ADDR	   CMD	  VALUE1   VALUE2
+#-----------------------------------------------------------------------------------------------------------
+
