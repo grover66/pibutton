@@ -12,4 +12,4 @@ PiButton, used with a Raspberry Pi 3 (or Raspberry Pi 2 + Wireless Dongle), will
   * Updates raspian repos.
   * Upgrades all packages.
   * Installs all required software, including hostapd, dnsmasq and ssmtp.
-  * 
+  * Overwrites config files and puts executable in place.
