@@ -1,2 +1,6 @@
-### pibutton
-PiButton, used with a raspberry pi & a compatible usb wireless device, will allow you to control IoT devices or alert you if your parent needs help.
+### PiButton:
+PiButton, used with a Raspberry Pi 3 (or Raspberry Pi 2 + Wireless Dongle), will allow you to control IFTTT enabled services using a $5 Dash Button.
+
+#### Uses include:
+* Parental Panic Button (I've fallen and I can't get up).
+* IFTTT compatable devices
