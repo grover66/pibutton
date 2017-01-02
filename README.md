@@ -3,4 +3,4 @@ PiButton, used with a Raspberry Pi 3 (or Raspberry Pi 2 + Wireless Dongle), will
 
 #### Uses include:
 * Parental Panic Button (I've fallen and I can't get up).
-* IFTTT compatable devices
+* IFTTT compatable devices (Lights, Garage Doors, Alarm Systems, etc.)
